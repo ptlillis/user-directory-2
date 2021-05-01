@@ -1,0 +1,36 @@
+h2{
+    text-align: center;
+    color: rgb(165, 8, 8);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+
+.col-md-12{
+    background-color: rgb(255, 174, 0);
+
+   
+}
+
+.row{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+   
+}
+
+table{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+
+footer {
+    padding-bottom: 5px;
+    font-size: 15px;
+    position: fixed;
+    left: 0px;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 174, 0);
+    color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
